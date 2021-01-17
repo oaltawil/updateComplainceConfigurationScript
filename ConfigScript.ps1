@@ -65,7 +65,7 @@ $global:scriptVersion = "1.0.0 - 03.06.2020"
 $global:scriptRoot = Split-Path -Path $MyInvocation.MyCommand.Path
 
 # Diagnostics folder root
-$global:sDiagRoot = $global:scriptRoot + "\Diagnostics"
+$global:sDiagRoot = $global:scriptRoot
 
 # The OS Version
 $global:osVersion = (Get-WmiObject Win32_OperatingSystem).Version
