@@ -11,7 +11,7 @@ set logPath=%logPath:"=%
 
 :: Commercial ID provided to you
 :: Copy COMMERCIAL ID KEY in above path and replace it in the line below
-set commercialIDValue=a26013b8-5b9e-429b-8a10-b38ee412ce40
+set commercialIDValue=464730d5-fcfa-4153-8ffb-3cec653f146d
 
 :: By Default script logs to both console and log file.
 :: logMode == 0 log to console only
